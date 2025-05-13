@@ -1,7 +1,9 @@
 🧾 Documentação - Sistema de Controle de Consultas Médicas
+
 O que é esse sistema?
+
 Este é um programinha feito em Java que ajuda a organizar consultas médicas.
- Ele tem três telas:
+Ele tem três telas:
 Uma para fazer login.
 
 
@@ -14,8 +16,9 @@ Uma para ver a lista de consultas.
 É como se fosse um caderno digital, mas mais organizado e bonito.
 
 👶 Como usar (bem fácil)
+
 Quando você abre o programa, aparece a tela de login.
- Digite:
+Digite:
 
 
 Usuário: admin
